@@ -1,6 +1,6 @@
-const util = require("util");
-const mysql = require("mysql");
-const dotenv = require("dotenv");
+var util = require("util");
+var mysql = require("mysql");
+var dotenv = require("dotenv");
 
 dotenv.config();
 
